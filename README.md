@@ -27,7 +27,7 @@
 
 ### 📊 My Activity
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/993479731066454087?theme=dark&bg=171A1F&animated=false&borderRadius=15px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/993479731066454087)
+[![Discord Presence](https://lanyard.cnrad.dev/api/993479731066454087?theme=dark&bg=171A1F&animated=false&borderRadius=15px&idleMessage=Just%20chilling%20🏝️)](https://discord.com/users/993479731066454087)
 
 ### 📫 Get In Touch
 - <a href="mailto:hey@three.dev">✉️ E-mail: `hey@three.dev`</a>
