@@ -30,5 +30,4 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/993479731066454087?theme=dark&bg=171A1F&animated=false&borderRadius=15px&idleMessage=Just%20chilling%20🏝️)](https://discord.com/users/993479731066454087)
 
 ### 📫 Get In Touch
-- <a href="mailto:hey@three.dev">✉️ E-mail: `hey@three.dev`</a>
-- <a href="https://discord.com/users/993479731066454087"><img src="https://www.tellmebest.com/wp-content/uploads/2022/03/discord-logo-4-1.png" width=16 height=16 align="center" /> Discord: `three#1000`</a>
+- <a href="https://discord.com/users/993479731066454087"><img src="https://www.tellmebest.com/wp-content/uploads/2022/03/discord-logo-4-1.png" width=16 height=16 align="center" /> Discord: `secret#0010`</a>
